@@ -1,7 +1,7 @@
 # A Large-scale Empirical Study on Fine-tuning Large Language Models for Unit Testing
 
 This repository contains the replication package for the paper **"A Large-scale Empirical Study on Fine-tuning Large Language Models for Unit Testing"**. The study We conduct the first large-scale empirical study on fine-tuning 37 popular
-LLMs in three unit testing scenarios across five benchmarks and eight metrics, utilizing over 3,000 NVIDIA A100 GPU hours. It includes all the necessary tools, dependencies, and generated test results.
+LLMs in three unit testing scenarios across five benchmarks and eight metrics, utilizing over 3,000 NVIDIA A100 GPU hours. 
 
 
 ## Abstract

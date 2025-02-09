@@ -52,10 +52,10 @@ Navigate to the `TextEvaluate` and `TGonDefects4J` directory and follow the inst
 If you use this package in your research, please cite our paper:
 
 ```
-@article{Paper,
+@article{shang2024large,
   title={A Large-scale Empirical Study on Fine-tuning Large Language Models for Unit Testing},
-  author={Anonymous},
-  journal={Journal},
+  author={Shang, Ye and Zhang, Quanjun and Fang, Chunrong and Gu, Siqi and Zhou, Jianyi and Chen, Zhenyu},
+  journal={arXiv preprint arXiv:2412.16620},
   year={2024}
 }
 ```
